@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Leanne Graham",
+    "gender": "male",
+    
+    "company": "Romaguera-Crona"
+      
+  },
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "gender": "male",
+   
+   
+  
+    "company": "Deckow-Crist"
+      
+  },
+  {
+    "id": 3,
+    "name": "Clementine Bauch",
+    "gender": "male",
+    
+    
+    
+    "company": "Romaguera-Jacobson"
+      
+  },
+  {
+    "id": 4,
+    "name": "Patricia Lebsack",
+    "gender": "female",
+    
+   
+    
+    "company": "Robel-Corkery"
+     
+  },
+  {
+    "id": 5,
+    "name": "Chelsey Dietrich",
+    "gender": "male",
+   
+   
+    
+    "company": "Keebler LLC"
+      
+  }
+]
