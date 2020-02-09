@@ -153,21 +153,7 @@
     "photoPath": "assets/images/Mary.png",
     "password": "987456",
     "confirmPassword": "987456"
-  },
-  {
-    "id": 12,
-    "name": "david",
-    "gender": "Male",
-    "email": "david@gmail.com",
-    "phoneNumber": "987456321",
-    "contactPreference": "Phone",
-    "dateOfBirth": "15-05-1990",
-    "department": "4",
-    "isActive": true,
-    "photoPath": "assets/images/Sam.png",
-    "password": "987456",
-    "confirmPassword": "987456"
-  }  
+  }
     
   ],
   "users": [
