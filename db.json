@@ -154,20 +154,20 @@
     "password": "987456",
     "confirmPassword": "987456"
   },
-   {
-    "id": 12,
-    "name": "David",
-    "gender": "Male",
-    "contactPreference": "Phone",
-    "email": "david@gmail.com",
-    "phoneNumber": "+91 9985123753456",
-    "dateOfBirth": "1982-09-27",
-    "department": "5",
-    "isActive": true,
-    "photoPath": "assets/images/Sam.png",
-    "password": "Welcome@123456",
-    "confirmPassword": "Welcome@123456"
-  }
+  {
+   "id": 12,
+   "name": "David",
+   "gender": "Male",
+   "contactPreference": "Phone",
+   "email": "david@gmail.com",
+   "phoneNumber": "9985123753456",
+   "dateOfBirth": "1982-09-27",
+   "department": "5",
+   "isActive": true,
+   "photoPath": "assets/images/Sam.png",
+   "password": "Welcome@123456",
+   "confirmPassword": "Welcome@123456"
+ }
     
   ],
   "users": [
